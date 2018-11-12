@@ -1,7 +1,6 @@
 {
   "name": "vue-bury",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
   "main": "./lib/bury",
   "scripts": {
     "serve": "vue-cli-service serve",
